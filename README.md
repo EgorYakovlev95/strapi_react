@@ -1,4 +1,4 @@
-# strapi_react
+# strapi_react.
 
 Проект созданный с помощью strapi (back) и react (front), лежащих в одноименных папках в репозитории.
 React -> ts + graphql (apollo/client) + scss
